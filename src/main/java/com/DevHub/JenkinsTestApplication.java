@@ -12,7 +12,7 @@ public class JenkinsTestApplication {
 	
 	public static void main(String[] args) {
 		logger.info("Application Started");
-		logger.info("Application is getting Executed....");
+		logger.info("Application is getting Executed......");
 		SpringApplication.run(JenkinsTestApplication.class, args);
 	}
 
